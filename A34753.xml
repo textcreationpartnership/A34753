@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Country ministers reasons for taking the oaths of allegiance to K. William &amp; Q. Mary in a letter to one under suspension for refusing them</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34753</idno>
+            <idno type="STC">Wing C6560</idno>
+            <idno type="STC">ESTC R28570</idno>
+            <idno type="EEBO-CITATION">10629828</idno>
+            <idno type="OCLC">ocm 10629828</idno>
+            <idno type="VID">45472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45472)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1400:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Country ministers reasons for taking the oaths of allegiance to K. William &amp; Q. Mary in a letter to one under suspension for refusing them</title>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licenc'd, November 3, 1689. J.F."</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Allegiance --  England --  Moral and ethical aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45472:1"/>
+            <pb facs="tcp:45472:1" rendition="simple:additions"/>
+            <p>A <hi>Country Miniſters</hi> REASONS For Taking the OATHS of ALLEGIANCE TO <hi>K. William &amp; Q. Mary.</hi>
+            </p>
+            <p>In a Letter to one under Suſpenſion, for re<g ref="char:EOLhyphen"/>fuſing them.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenc'd,</p>
+                        <closer>
+                           <dateline>
+                              <date>November, 3. 1689.</date>
+                           </dateline> 
+                           <signed>J. F.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Taylor,</hi> near <hi>Stationers-Hall.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45472:2"/>
+            <pb n="1" facs="tcp:45472:2"/>
+            <head>A Country Miniſter's Reaſons for taking the Oaths of Allegiance to K. <hi>William</hi> and Q. <hi>Mary;</hi> in a Letter to one under Suſpenſion, for refuſing them.</head>
+            <p>SHall I beg of you (My Dear Brother) to receive theſe lines with the ſame affection and candour with which they are wrote, and to believe that I have no other deſign in com<g ref="char:EOLhyphen"/>municating my thoughts upon this Subject to you, than to do ſervice to you and the Church, and by endeavouring to convince you of your error in refuſing the new Oaths, to pre<g ref="char:EOLhyphen"/>vent the fatal conſequences to both, which will attend your Obſtinate perſiſting in that Refuſeal. And then I ſhall hope that through the bleſſing of God, tho they come too late for your Suſpenſion, they may be ſoon enough to hinder your Deprivation: Which good effects, if they ſhall have upon you, I ſhall not cenſure you for having ſubmitted to a Suſpenſion; for I ſhall not be ſo unjuſt as to think you were moved there<g ref="char:EOLhyphen"/>to by a pittiful Cowardice, or more wretched Lazineſs, as if you either ſtay'd to ſee the ſucceſs of their Majeſties Arms, before you Embark'd in their Cauſe, or were glad of a pre<g ref="char:EOLhyphen"/>tence for ſix Months neglecting the Duties of your calling; but ſhall rather Charitably hope that you waited till the laſt neceſſity forced you to take the Oaths, to try, if happily in that time, providence might either remove ſome barrs out of the way, or convince you of the unreaſonableneſs of ſome ſcru<g ref="char:EOLhyphen"/>ples, which as yet hinder'd your doing it with that full aſſu<g ref="char:EOLhyphen"/>rance and perſwaſion of mind which you deſired.</p>
+            <p>There are ſeveral arguments and various Methods, by which
+<pb n="2" facs="tcp:45472:3"/>thoſe Reverend Perſons that have taken the Oaths, do juſti<g ref="char:EOLhyphen"/>fie their practice therein; but this, however it be by ſome made an objection againſt the Lawfulneſs of them, will not I hope paſs with you for a reaſonable one, unleſs you can believe a propoſition to be ever the leſs true becauſe it is confirm'd by twenty ſeveral good Mediums.</p>
+            <p>As to the particular Method I have here made uſe of, I ſhall only tell you thus much, that being I was to have to do and argue with my ſelf, I reſolved to lay the ſtate of the Queſtion ſo low as to have no diſpute with my ſelf about that, and ac<g ref="char:EOLhyphen"/>cordingly have ſuppoſed their Majeſties to have no other Title to the Throne but poſſeſſion; but I would not have this Method of mine look'd upon as deſigned to thwart theirs who aſſert their Majeſties Right to the Crown, as the ground of their Swearing Allegiance to them, but rather as a further inforce<g ref="char:EOLhyphen"/>ment thereof, for if my Arguments, which proceed upon ſup<g ref="char:EOLhyphen"/>poſition of a bare poſſeſſion only, do prove of validity to juſti<g ref="char:EOLhyphen"/>fie the taking theſe Oaths to them; theirs which are drawn from an Eſtabliſh'd right will conclude a <hi>Fortiori.</hi> The reaſons that prevailed with me, be pleaſed to take in the ſame Method, that I lay'd them before my ſelf.</p>
+            <p>And here firſt I freely confeſs to you, that when it was diſ<g ref="char:EOLhyphen"/>courſed beforehand, that there were new Oaths deſign'd to be exacted from from their Majeſties Subjects, and during the Debates concerning that matter in Parliament, I did heartily wiſh that a general impoſition of them, eſpecially upon the Clergy, might not have been conſented to: Not but that I thought it highly reaſonable that their Majeſties, having Sworn to protect and Govern us according to Law, ſhould receive from us a ſatisfactory aſſurance, of a juſt return of fidelity and obedi<g ref="char:EOLhyphen"/>ence to them; but I was ſadly apprehenſive that thoſe ill conſequences, which a little ſagacity might eaſily diſcern, would, through the weakneſs of ſome, the ſcrupuloſity of others being improved and abuſed, by the ſerpentine policy of a third ſort; almoſt neceſſarily attend this Method of giving their Majeſties Security, would be ſuch, as could not be compenſated by the
+<pb n="3" facs="tcp:45472:3"/>good effects it could have upon any ſort: For, as for thoſe that were well affected to the preſent Government, and thought it ſuch as they ought to ſubmit, and give Obedience to, they did not want to be tyed to it by ſuch obligations: And for thoſe who looked upon it as an Uſurpation, which they could not in Conſcience be faithful to, they would either refuſe theſe Oaths, and ſo there would be an open Schiſm and Diviſion among us: <hi>(Hoc Ithacus velit)</hi> Or elſe if they did take them, it cannot be imagined they could be bound by them, for they that will make no Conſcience to take an Oath, which they Judge Unlawful, will make as little when occaſion ſerves to break it.</p>
+            <p>But all this notwithſtanding, when once the wiſdom of the Nation had reſolved that theſe Oaths ſhould be impoſed; and by the Concurrence of the Royal aſſent it was Enacted into a Law, I then thought it my duty no longer to oppoſe my private Sentiments to their determination, but rather ſincerely to in<g ref="char:EOLhyphen"/>quire how far I might honeſtly and ſafely conform my practice to them.</p>
+            <p>And in this diſquiſition I was obliged to uſe the moſt ſerious and unbyaſſed application to find out the Truth, by reaſon of thoſe diſmal conſequences which would be the effects of a miſtaken practice either way: For if theſe Oaths were un<g ref="char:EOLhyphen"/>lawful, and contrary to others that I had formerly taken, if I ſhould ſwallow them, I ſhould expoſe my ſelf to the dreadful guilt of Perjury, to the hatred of God and delaſtation of good Men: On the other ſide, if they proved to be Lawful and not to thwart any former obligations; if I ſhould refuſe them I ſhould make my ſelf lyable to the Penalties and Sanctions, which that Law that requires them, is forfeited with: Not only to a deprivation from that comfortable ſubſiſtence, which providence has mercifully allotted me to maintain and make proviſion for my Family with; (and he that without great and weighty Reaſons, wilfully puts himſelf out of a Capacity ſo to do, I think falls under a ſevere cenſure of the Apoſtles: And I do alſo look upon the bleſſings and comforts of this Life, to be Talents which God has entruſted us with, and we muſt be re<g ref="char:EOLhyphen"/>ſponſable
+<pb n="4" facs="tcp:45472:4"/>to him for, and ſuch as (tho when they ſtand in Competition with him and my duty, I muſt hate, in our Savi<g ref="char:EOLhyphen"/>ours Language, and willingly bid adieu to yet) if when no neceſſity ſo requiring, I ſacrifice to a humour, and wil<g ref="char:EOLhyphen"/>fully diveſt my ſelf of, I ſhall ſuffer as a Fool, my glorying will be in vain, and the beſt reward I can expect: <hi>Quis requi<g ref="char:EOLhyphen"/>poit?</hi>) But alſo which is of greater conſideration, by my re<g ref="char:EOLhyphen"/>fuſal I ſhould be deprived of the opportunity of doing God ſer<g ref="char:EOLhyphen"/>vice in the ſtation he had placed me in, I ſhould deſert my Flock, and expoſe it for ought I know to the guidance of a Wolf in Sheeps Clothing, I ſhould make a Schiſm in the Church, and a Faction in the State; I ſhould be guilty of interpretatively calling good evil and evil good, I ſhould lay a ſtumbling-block in my weak Brothers way, and ſhould intitle my ſelf to the woes that belong to thoſe that are guilty of ſuch offences.</p>
+            <p>I therefore reſolved with the greateſt dilligence and imparti<g ref="char:EOLhyphen"/>ality, to ſearch for the beſt light and directions I could meet with, to conduct my practice in this weighty affair. And next after my application to the Father of Lights and great Judge of all our actions, I thought his Vicegerent whom he has ſubſtitu<g ref="char:EOLhyphen"/>ted as the next Cenſurer of our practices under him, Conſci<g ref="char:EOLhyphen"/>ence I mean, was that which I ought to have recourſe to; and according as that, after the beſt information had that I could meet with, ſhould direct, ſo look'd upon my ſelf obliged to practice, if to her it appeared that the Oaths were Lawful, readily and chearfully to take them, if unlawful quietly to ſub<g ref="char:EOLhyphen"/>mit to the puniſhment of my refuſal; and whether one or the other, not to cenſure thoſe that were otherwiſe minded, nor reflect upon ſuch as ſhould act differently from me, but to fol<g ref="char:EOLhyphen"/>low the advice of St. <hi>Paul,</hi> that <hi>he that eateth ſhould not deſpiſe him that eateth not, nor he that eateth not, judge him that eateth.</hi>
+            </p>
+            <p>And now having conſtituted Conſcience my Judge in this matter; my next buſineſs was to enquire what meaſures Con<g ref="char:EOLhyphen"/>ſcience ought to govern and guide herſelf by in this Diſquiſition: For Conſcience is not that Arbitrary thing that ſome take her to be; that paſſes ſentance meerly <hi>Pro arbritrio,</hi> and Condemns
+<pb n="5" facs="tcp:45472:4"/>or acquits without regard to that which is the proper meaſure of thoſe actions which fall under her cognizance: And for want of due advertency to this many have run into very dangerous miſtakes; and Fancy, and Humour, and Prejudice, and Spleen, and Advantage, and Profit, and Stubbornneſs, and what not, have been ſet up for Conſcience. And in this particular caſe, intereſt might have perſwaded me to take the Oaths, and that might have paſt for Conſcience, on the other ſide pique or prejudice, fondneſs of, or unwillingneſs to retract, or act contrary to a former, violently aſſerted, and unreaſonably ſtretch'd Opinion, groundleſs ſcruples, ariſing from the contrary practice of ſome good Men, or ſuch like might have prevailed upon me to refuſe them, and they might have gone for Conſcience: And all through not attending to thoſe meaſures, which Conſcience (which is nothing elſe but an act of the practical underſtanding, paſſing ſentence upon the Lawfulneſs, or unlawfulneſs of an action done, or to be done) ought in giving judgment thereupon to proceed by. And thoſe meaſures are no other than the proper rules of thoſe actions which come under tryal, according to the confor<g ref="char:EOLhyphen"/>mity or contrarity of which actions to thoſe rules they become either lawful or unlawful. Now Conſcience it ſelf muſt not pretend to be the rule, ſhe is the directer of my actions before they are done, and the cenſurer of them afterward, but ſure no more the rule of them, than a Judge upon Bench is the Law: I was therefore to look further for the rule of them.</p>
+            <p>In general I took it to be moſt certain, that the Law of God is ſo far the rule of all actions that no action contrary thereto can be Lawful: But then there being ſeveral actions to be per<g ref="char:EOLhyphen"/>formed by me, as I may be conſidered in ſeveral capacities and relations, which the Law of God has made no particular pro<g ref="char:EOLhyphen"/>viſion for, in ſuch caſes it ſeemed reaſonable to me that the Laws which concern'd me in thoſe relations, provided they were not repugnant to the Laws of God but in ſubordination to them, ſhould be the rule of thoſe actions, which Conſcience in her judgment of them ought to govern her ſelf by: And this I was the more confirmed in, when I happily found the great
+<pb n="6" facs="tcp:45472:5"/>Doctor <hi>Hammond,</hi> giving much the ſame account of Conſcience in his Treatiſe upon that Subject.</p>
+            <p>This then of taking the Oaths being a civil action, enjoyned me as a Member of this community, and ſubject of this Govern<g ref="char:EOLhyphen"/>ment, I had only theſe two things to ſearch into, for the infor<g ref="char:EOLhyphen"/>mation of my Conſcience in this particular.</p>
+            <list>
+               <item>1. What the Laws of the Government I am a Subject of, injoin in this Caſe, and</item>
+               <item>2. Whether thoſe Laws are not repugnant to ſome ſuperiour Law of God.</item>
+            </list>
+            <p n="1">1. Touching the former of which inquiries, my ſtudies having been directed another way, I thought it neceſſary to apply my ſelf to thoſe whoſe buſineſs it was to ſtudy and ſearch into the Laws; and theſe with one Mouth told me, that by the Conſtitution of our Government, a King <hi>de facto</hi> that was in poſſeſſion but had no right to the Throne, (and ſuch at leaſt I could not deny their preſent Majeſties to be) was ſuch as againſt whom Treaſon might be committed, even whileſt the King <hi>de Jure,</hi> the rightful King was living, but out of Poſſeſſion. That Treaſon could not be committed againſt the Rightful King out of Poſſeſſion; That if ever the Rightful King returned, he might Puniſh Treaſon committed againſt the King <hi>de facto.</hi> That an Indictment for Treaſon againſt a King <hi>de facto,</hi> ſhould run <hi>contra naturalem Allegiantiam,</hi> &amp;c.</p>
+            <p>And that they might not be ſuſpected to be influenced by Intereſt, fear of danger, or hope of advantage from the preſent Government, they ſhewed me that this was not only their opini<g ref="char:EOLhyphen"/>on but of former Lawyers, who lived too long ſince to have had any proſpect of this Revolution, or hopes of gaining by writing in favour of it; particularly of the great Lord <hi>Cooke,</hi> than whom we have not had a Commentator of greater Authority, or whoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> would have gone further in Point of Law. It ap<g ref="char:EOLhyphen"/>pearing to me then from hence that Allegiance was due to a King <hi>de facto</hi> (for otherwiſe how could Treaſon committed againſt him be ſaid to be <hi>contra Allegiantiam</hi>) I could make no ſcruple of promiſing, or when called to it, Swearing to pay
+<pb n="7" facs="tcp:45472:5"/>that Allegiance to him, provided thoſe Laws which have made an Allegiance due to him are not repugnant to ſome ſuperiour Law of God, and that was the next thing I was to inquire into.</p>
+            <p n="2">2. And as to this the reſult of my enquiry was, that God Al<g ref="char:EOLhyphen"/>mighty had appointed Government in general, and by his Laws required Obedience and ſubjection from the Governed to their Governours, and moſt eſpecially had enhanced the obligation of Obedience from Subjects to their Rulers, in the laſt diſcovery of his will which he made in the Goſpel. But to what ſort of Government, or what Governours, or in what particular in<g ref="char:EOLhyphen"/>ſtances we ought to be ſubject, He has not as I can find declared. More plainly, He has no where told us whether we ſhould be Governed by one Man or more, whether the Perſon veſted with the Government ſhould Rule Arbitrarily; <hi>Stet pro ratione volun<g ref="char:EOLhyphen"/>tas:</hi> Or whether he ſhould be tyed and bound by Laws; whe<g ref="char:EOLhyphen"/>ther the Government ſhould be Succeſſive or Elective, deſcend by Lineal Succeſſion in one Family, or whether others ſhould have their turns, whether the Perſon entruſted with the Govern<g ref="char:EOLhyphen"/>ment ſhould enjoy it <hi>pro termino vitae,</hi> or be Choſen Annually, or after a certain ſpace of years, or when his Government ſhall determine ſo as the ſubjects ſhall be free from their Subjection to him; in theſe and many other ſuch inſtances, in the Law of God there is <hi>altum Silentium</hi> and nothing determined: The Wiſdom of God foreſeeing that no one particular form, or method of Government would agree with all ſorts of Ages, Perſons and Places, has left the deciſion of ſuch particulars to the Laws and Statutes of the ſeveral Nations and Kingdoms: From whence it follows that the Laws of Kingdoms, determining theſe particulars, which the Laws of God take no Cogniſance of; cannot be ſaid to be repugnant to any Law of God: And conſequently the Laws of our Nation deciding that the Govern<g ref="char:EOLhyphen"/>ment of one King determines when he is out, and another has got Poſſeſſion of it; ſo far that the Allegiance which was owing to the former, ſhall be transferr'd to him in Poſſeſſion, are not repugnant to any ſuperiour Law of God.</p>
+            <p>And then the Laws of the Land, if not repugnant to the
+<pb n="8" facs="tcp:45472:6"/>Laws of God, being the meaſures which Conſcience ought to govern her ſelf by, in her Judgment of thoſe actions, which I am to perform, as a Member of this Nation; and this of taking the Oaths being an action of that kind, I could not upon the whole matter but conclude, not only that I might with a good Conſcience take the Oaths of Allegiance to King <hi>William</hi> and Queen <hi>Mary;</hi> but that I could not with a good Conſcience refuſe them.</p>
+            <p>Nor could I apprehend that my former Oath to King <hi>James,</hi> could give me any juſt ſcruple in this matter: For my Oath to him was not to his Perſon ſeparate from his Office, but veſted with it (for otherwiſe in caſe of a ſpontaneous reſignati<g ref="char:EOLhyphen"/>on, I could not have been abſolved from my Oath) when therefore theſe two are Legally ſeparated, the obligation of that Oath ceaſeth: Now our Laws, (whoſe buſineſs I ob<g ref="char:EOLhyphen"/>ſerved before it is to determine whether Death only, or a certain term of years, or whatever elſe ſhould put an end to the Office of a King, ſo that the Subject ſhould be free from his obligation to him) having declared that a Kings being out of Poſſeſſion, and his Throne being filled by another, does ſo far put an end to his Office, that during the time, that he is out of Poſſeſſion and another in, he is in Legal Con<g ref="char:EOLhyphen"/>ſtruction, and as to all Allegiance that his Subjects owe him as Dead, as if he were naturally ſo: All objection upon ac<g ref="char:EOLhyphen"/>count of my former Oath eaſily vaniſhed.</p>
+            <p>And as little did I ſtumble (tho I confeſs very much ſurpriſed) at what ſome do mightily inſiſt upon, as a bar to taking theſe Oaths, the Doctrine of Paſſive Obedience as profeſt and taught in our Church: Particularly I was ſorry to find it urged in the laſt Declaration of the late Lord Biſhop of <hi>Chicheſter,</hi> as the ground of his refuſing the Oaths; a Declaration which (if it were his) being made at a time when his Diſtemper and near approaching Death, may well be ſuppoſed to have clouded his faculties and parts, is ſupported with ſuch Incocnluſive reaſons, and could ſerve to no good end or purpoſe in the World, that out of reſpect to the Memory of that Worthy and Pious Prelate,
+<pb n="9" facs="tcp:45472:6"/>I cannot forbear wiſhing that the Editor had committed it to the Flames rather than the Preſs: For ſuppoſing the Doctrine of Paſſive Obedience to be the Doctrine of our Church, as I verily believe it is, and a very good Doctrine when truly ſtated; I doubt not, but for all the Lawful Commands of my Prince, Lawful, I mean, for him; ſuch as he is impowered to command by that which is the meaſure of his Authority, I muſt either actually perform them, or quickly ſubmit to the puniſhment of my non-performance: But what is this to the point of the new Oaths, or how can I owe or pay this Obedience to King <hi>James</hi> who is out of Place to Command, and out of Power to Puniſh? Paſſive Obedience is not a ſuffering for my King, but by my King, or by his Officers Commiſſioned under him; and therefore 'tis abſurd to talk of Paſſive Obedience to one that is out of Poſſeſſion, for it cannot be paid to, or Exerciſed under any but him that is poſſeſt of the Power. All therefore, as far as I could ſee, that Paſſive Obedience had to do in this Caſe, was to oblige me, if upon other good grounds I had been perſwaded of the unlawfulneſs of the Oaths, ſubmiſſively to have born the puniſhment of my refuſal, without diſturbing the Government, or cenſuring thoſe that complyed with it.</p>
+            <closer>
+               <signed>
+                  <hi>Your very Affect.</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
